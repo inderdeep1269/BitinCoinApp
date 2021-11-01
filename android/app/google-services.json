@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "861416994445",
+    "project_id": "xcoin-app",
+    "storage_bucket": "xcoin-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861416994445:android:58ad1ccb04c8d7d42714c4",
+        "android_client_info": {
+          "package_name": "com.bitin.xcoin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861416994445-ldl11psqj89s1sbb3e0vhkiv70bc9i9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCbfUGkDBekQF88i_MqIMNfWSbwaPORt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861416994445-ldl11psqj89s1sbb3e0vhkiv70bc9i9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
